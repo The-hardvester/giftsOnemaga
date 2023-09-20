@@ -1,0 +1,30 @@
+.intro{
+    position: relative;
+    top: 50px;
+}
+.card{
+    display: flex;
+}
+
+.fix{
+    position: relative;
+    top: 80px;
+    margin: 0 auto;
+}
+.ctrl{
+    margin-left: 100px;
+}
+footer{
+    position: relative;
+    top: 220px;
+}
+
+hr{
+    position: relative;
+    top: 150px;
+ }
+
+ .card2{
+    position: relative;
+    top: 120px;
+ }
