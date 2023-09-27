@@ -18,22 +18,38 @@
   margin: 0 auto;
 }
 
+.fix3{
+  position: relative;
+  top: 250px;
+  margin: 0 auto;
+}
+
 .ctrl{
     margin-left: 100px;
 }
 footer{
     position: relative;
-    top: 280px;
+    top: 480px;
 }
 
-hr{
+.hr{
     position: relative;
     top: 150px;
+ }
+
+ .hr2{
+  position: relative;
+  top: 360px;
  }
 
  .card2{
     position: relative;
     top: 120px;
+ }
+
+ .card3{
+  position: relative;
+  top: 190px;
  }
 
  /* Button Scroll Top */
