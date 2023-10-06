@@ -29,7 +29,7 @@
 }
 footer{
     position: relative;
-    top: 480px;
+    top: 580px;
 }
 
 .hr{
@@ -51,6 +51,17 @@ footer{
   position: relative;
   top: 190px;
  }
+
+ .card4{
+  position: relative;
+  top: 290px;
+ }
+
+ .fix4{
+  position: relative;
+  top: 250px;
+  margin: 0 auto;
+}
 
  /* Button Scroll Top */
 
